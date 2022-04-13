@@ -1,4 +1,4 @@
-# studyPartner
+# StudyPartner
 A Django based web application to find study partner and share skills.
 ## Initial setup
 Run the following pip install commands on the terminal to install dependency
@@ -43,7 +43,7 @@ Run the following command to run the project on the local server 'http://127.0.0
 $ python manage.py runserver
 ```
 This takes to homepage of this StudyPartner Project
-## cretae user
+## Cretae user
 * Since the database tables are empty now, create new user by going to the link 'http://127.0.0.1:8000/register'
 * Password of new user must be of at least 8 charecters including both alphanumeric and special charecters.
 * After logging in create new rooms, explore new room features, write message in the rooms, edit user profile.
