@@ -48,7 +48,7 @@ This takes to homepage of this StudyPartner Project
 * Password of new user must be of at least 8 charecters including both alphanumeric and special charecters.
 * After logging in create new rooms, explore new room features, write message in the rooms, edit user profile.
 ### That is pretty much it about the project setup. Explore , add new features and have fun.
-<br>
+
 ## Acknowledgement
 This StudyPartner project is done by following a code along django tutorial on youtube for the purpose of learning django framework.
 <br>
