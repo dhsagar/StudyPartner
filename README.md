@@ -3,7 +3,7 @@ A Django based web application to find study partner and share skills.
 ## Initial setup
 Run the following pip install commands on the terminal to install dependency
 * $ pip install pillow
-* $ pip install mysql-client
+* $ pip install mysqlclient
 * $ pip install django-cors-headers
 * $ pip install djangorestframework
 ## Database
