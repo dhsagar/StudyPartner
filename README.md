@@ -31,7 +31,7 @@ DATABASES = {
 ```
 Change USER and PASWORRD if necessary.
 ## Database migration
-* Run the following commands to migrate the database according.
+* Run the following commands to migrate the database tables.
 ```
 $ python manage.py makemigrations
 $ python manage.py migrate
